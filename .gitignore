@@ -1,3 +1,5 @@
 .idea
 venv
 graph
+.ipynb_checkpoints/
+downloaded_data/
