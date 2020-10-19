@@ -1,5 +1,6 @@
 .idea
-venv
+0;95;0cvenv
 graph
 .ipynb_checkpoints/
 downloaded_data/
+.single_run
