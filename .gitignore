@@ -4,3 +4,4 @@ graph
 .ipynb_checkpoints/
 downloaded_data/
 .single_run
+venv
